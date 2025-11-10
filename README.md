@@ -80,9 +80,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to the open-source NLP community
 - Twitter API for data access
 - Scikit-learn for machine learning tools
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/Tweet-Sentiment-Analysis](https://github.com/yourusername/Tweet-Sentiment-Analysis)
