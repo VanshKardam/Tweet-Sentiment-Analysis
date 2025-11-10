@@ -17,7 +17,7 @@ This project performs sentiment analysis on Twitter data to classify tweets as p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Tweet-Sentiment-Analysis.git
+git clone https://github.com/VanshKardam/Tweet-Sentiment-Analysis.git
 cd Tweet-Sentiment-Analysis
 ```
 
